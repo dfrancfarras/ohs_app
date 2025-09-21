@@ -1,8 +1,0 @@
-streamlit
-opencv-python-headless
-numpy
-pandas
-matplotlib
-mediapipe==0.10.9
-scikit-learn
-
