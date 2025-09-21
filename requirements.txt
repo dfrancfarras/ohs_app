@@ -3,5 +3,6 @@ opencv-python-headless
 numpy
 pandas
 matplotlib
-mediapipe
+mediapipe==0.10.9
 scikit-learn
+
